@@ -41,9 +41,6 @@ ___
 
 ___
 
-### Solved.ac
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alswns9288)](https://solved.ac/alswns9288/)
-
 
 <!--
 **JunLife/JunLife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
