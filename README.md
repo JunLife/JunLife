@@ -11,8 +11,8 @@ ___
 ![JUnit5](https://img.shields.io/static/v1?style=for-the-badge&message=JUnit5&color=25A162&logo=JUnit5&logoColor=FFFFFF&label=)
 
 ![Spring Boot](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=)
+![Spring MVC](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+MVC&color=6DB33F&logo=Spring+MVC&logoColor=FFFFFF&label=)
 ![Spring Data JPA](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Data+JPA&color=6DB33F&logo=JPA&logoColor=FFFFFF&label=)
-![Spring Security](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Security&color=6DB33F&logo=Spring+Security&logoColor=FFFFFF&label=)
 
 ![QueryDsl](https://img.shields.io/static/v1?style=for-the-badge&message=QueryDsl&color=6DB33F&logo=QueryDsl&logoColor=FFFFFF&label=)
 ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
