@@ -2,7 +2,6 @@
 ___
 
 ### 🖥️  Tech Stack
-test4
 
 ### Backend
 
