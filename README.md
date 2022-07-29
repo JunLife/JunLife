@@ -1,5 +1,4 @@
 #### 안녕하세요! 백엔드 개발자 조민준입니다.
-[My Portfolio](https://petalite-power-bee.notion.site/ea8354a44ff047a08b149df24c5ba1cd)
 ___
 
 ### 🖥️  Tech Stack
@@ -14,7 +13,6 @@ ___
 ![Spring Data JPA](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Data+JPA&color=6DB33F&logo=JPA&logoColor=FFFFFF&label=)  
 ![QueryDsl](https://img.shields.io/static/v1?style=for-the-badge&message=QueryDsl&color=6DB33F&logo=QueryDsl&logoColor=FFFFFF&label=)
 ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)  
-![Apache Kafka](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Kafka&color=231F20&logo=Apache+Kafka&logoColor=FFFFFF&label=)  
 ![Gradle](https://img.shields.io/static/v1?style=for-the-badge&message=Gradle&color=02303A&logo=Gradle&logoColor=FFFFFF&label=)
 
 ### Frontend
